@@ -3,7 +3,7 @@
 - 🌱 I’m currently attending the Digital Health course <br>
 <br>
 📈 Github Stats
-<br>
+<br> <br>
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cringenheira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Cringenheira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cringenheira&hide=makefile,cmake,tex&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="Cringenheira"> 
