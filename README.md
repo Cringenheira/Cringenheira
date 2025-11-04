@@ -1,6 +1,6 @@
 ### Hi there, I am Joana Pires👋 ###
-- 🔭 I'm currently studying [@ESS]("https://www.ess.ipp.pt/") (year 1/3) <br>
-- 🌱 I’m currently attending the Digital Health course <br>
+- Currently studying Digital Health at [@ESS]("https://www.ess.ipp.pt/") (year 3/3) <br>
+- Love data science, art, music, fashion geology, biology, books and my friends n family <3
 <br>
 📈 Github Stats
 <br> <br>
