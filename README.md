@@ -3,7 +3,8 @@
 - Love data science, art, music, fashion geology, biology, books and my friends n family <3
   
 
-#### 📈 Github Stats
+
+####  Github Stats
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cringenheira&count_private=true&theme=dark&show_icons=true&hide_border=true" />
