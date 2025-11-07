@@ -1,6 +1,7 @@
 ### Hi there, I am Joana Pires👋 ###
 - Currently studying Digital Health at [@ESS]("https://www.ess.ipp.pt/") (year 3/3) <br>
-- Love data science, art, music, fashion, makeup, modeling, acting, photography, geology, biology, books and my friends n' family <3
+- Love art, music, fashion, makeup, modeling, acting, photography, geology, biology, books and my friends n' family <3
+- Trying to learn data science hehe
 
   <p>
 ####  Github Stats
